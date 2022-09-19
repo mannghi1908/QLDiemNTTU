@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_DiemSV", "QL_DiemSV.csproj", "{29E8A4C9-484C-4006-A385-7A2386F0F65C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29E8A4C9-484C-4006-A385-7A2386F0F65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E8A4C9-484C-4006-A385-7A2386F0F65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E8A4C9-484C-4006-A385-7A2386F0F65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E8A4C9-484C-4006-A385-7A2386F0F65C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A02ECBFC-DC77-4746-9999-6A9DDFBB64ED}
+	EndGlobalSection
+EndGlobal
